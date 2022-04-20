@@ -1,8 +1,13 @@
 @media (max-width: 1400px) {
-    
+    .services_wrapper .service_phone {
+        max-width: 80%;
+    }
 }
 
 @media (max-width: 1230px) {
+    .services_wrapper .service_phone {
+        max-width: 100%;
+    }
 }
 
 @media (max-width: 991px) {

@@ -167,7 +167,12 @@ button {
 }
 
 /* 4. Services */
-
+.services_wrapper h3 span {
+    color: var(--secondary-color);
+}
+.services_wrapper .service_phone {
+    max-width: 70%;
+}
 
 /* 5. Blog */
 
