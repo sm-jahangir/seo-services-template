@@ -36,6 +36,10 @@
         margin-top: 15px;
 
     }
+    /* Blog */
+    .blog_wrapper .newsletter{
+        width: 100%;
+    }
     
 }
 
