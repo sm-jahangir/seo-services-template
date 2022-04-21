@@ -217,3 +217,13 @@ color: var(--secondary-color);
 }
 
 /* 7. Footer */
+
+.footer_wrapper a {
+    color: var(--text-gray);
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: none;
+}
+.footer_wrapper a:hover {
+    color: var(--secondary-color);
+}
