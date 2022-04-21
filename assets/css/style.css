@@ -206,6 +206,14 @@ color: var(--secondary-color);
 
 }
 /* 6. Contact */
-
+.contact_wrapper input , .contact_wrapper textarea {
+    background-color: var(--bg-white);
+    border-color: var(--bg-gray);
+    border-radius: 15px;
+    color: var(--text-gray);
+    font-size: 15px;
+    font-weight: 400;
+    padding: 15px 32px 15px 21px;
+}
 
 /* 7. Footer */
